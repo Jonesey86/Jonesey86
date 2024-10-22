@@ -1,6 +1,6 @@
-## Hey there my name is Ian Jones 👋 Im currently a backend stundent at KodeHode in Bergen. 
+## Hey there my name is Ian Jones 👋 a 38 year old man from Liverpool England, but ive been living in Norway for the past 23 years. Currently a student learning backend at Kodehode in Bergen Norway.
 
-<h1>Im currently studying coding at Kodehode Bergen, </h1>
+<h1></h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonesey86)](https://github.com/Jonesey86/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonesey86&layout=compact)
