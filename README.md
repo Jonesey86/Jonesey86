@@ -1,4 +1,5 @@
-## Hey there my name is Ian Jones 👋
+## Hey there my name is Ian Jones 👋 Im currently a backend stundent at KodeHode in Bergen. 
+
 <h1>Im currently studying coding at Kodehode Bergen, </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonesey86)](https://github.com/Jonesey86/github-readme-stats)
