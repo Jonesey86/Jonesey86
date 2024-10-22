@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey there my name is Ian Jones 👋
+<h1>Im currently studying coding at Kodehode Bergen, </h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonesey86)](https://github.com/Jonesey86/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonesey86&layout=compact)
 
 <!--
 **Jonesey86/Jonesey86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
