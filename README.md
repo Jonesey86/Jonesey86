@@ -5,7 +5,7 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 
 ## About Me
 - Currently learning programming and coding through KodeHode
-- Have 13 year's experience with customer realtions
+- Have 13 year's experience with customer relations
 - In my spare time i enjoy spending time with my family, reading, learning more about coding, and gaming :D
 
 
