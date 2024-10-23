@@ -1,4 +1,7 @@
-## Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, But ive been living in Norway for the past 23 years. Currently a student learning backend coding at Kodehode in Bergen Norway.
+
+
+## Introduction 
+Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, But ive been living in Norway for the past 23 years. Currently a student learning backend coding at Kodehode in Bergen Norway. My enjoyment comes from working with C#, API'S, .NET. 
 
 <h1></h1>
 
