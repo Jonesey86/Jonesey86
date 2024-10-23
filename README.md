@@ -4,7 +4,7 @@
 Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, But ive been living in Norway for the past 23 years. Currently a student learning backend coding at Kodehode in Bergen Norway. My enjoyment comes from working with C#, API'S, .NET. 
 
 ## About Me
-- Currently leanrning programming and coding through KodeHode
+- Currently learning programming and coding through KodeHode
 - Have 13 year's experience with customer realtions
 - 
 
