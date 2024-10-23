@@ -19,8 +19,6 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 
 
 
-
-
 <!--
 **Jonesey86/Jonesey86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
