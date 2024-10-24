@@ -11,7 +11,7 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 
 ## Contact Me 📫:
 <a href="mailto:irj082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jones-ian-787b9a96//)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jones-ian-787b9a96//)
 
 
 
