@@ -9,7 +9,7 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 - In my spare time i enjoy spending time with my family, reading, learning more about coding, and gaming :D
 - I speak English and Norwegian fluently
 
-## Contact Me:
+## Contact Me 📫:
 <a href="mailto:irj082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jones-ian-787b9a96//)
 
@@ -18,7 +18,7 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 ![Jonesey86 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonesey86&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonesey86&layout=compact)
 
-## Tools and Languages
+## Tools and Languages 🌱:
 [![My Skills](https://skillicons.dev/icons?i=cs,html,dotnet,github,js,vscode,css,unreal,windows,figma&theme=dark)](https://skillicons.dev)
 
 
