@@ -17,9 +17,11 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 
 ![Jonesey86 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonesey86&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonesey86&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jonesey86)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tools and Languages 🌱:
 [![My Skills](https://skillicons.dev/icons?i=cs,html,dotnet,github,js,vscode,css,unreal,git,windows,figma&theme=dark)](https://skillicons.dev)
+
 
 
 
