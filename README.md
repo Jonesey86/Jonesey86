@@ -15,7 +15,7 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jones-ian-787b9a96)
 
 ## The repositories within:
-This profile collects all the repositories i've used whilst learning coding/programming at Jobloop, I have been able to gather experience from the following:
+This profile collects all the repositories i've used whilst learning coding/programming at Jobloop, I have been able to gather experience from the following coding languages:
 
 ![Jonesey86 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonesey86&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonesey86&layout=compact)
