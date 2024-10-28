@@ -23,7 +23,7 @@ This profile collects all the repositories i've used whilst learning coding/prog
 
 
 ## Tools and Languages 🌱:
-[![My Skills](https://skillicons.dev/icons?i=cs,html,dotnet,github,js,vscode,css,unreal,git,windows,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,dotnet,github,js,vscode,css,unreal,git,windows,azure,figma&theme=dark)](https://skillicons.dev)
 ![](https://komarev.com/ghpvc/?username=Jonesey86)
 
 
