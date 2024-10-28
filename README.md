@@ -5,9 +5,9 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 
 ## About Me 💬.
 - Currently learning programming and coding through Jobloop
-- 13 years experience with customer relations
+- 13 years experience with customer relations.
 - In my spare time I enjoy spending time with my family, reading, learning more about coding, and gaming.
-- I speak English and Norwegian fluently
+- I speak English and Norwegian fluently.
 - Im passionate about learning coding/programming and broadening my knowledge as a backend developer.
 
 ## Contact Me 📫:
