@@ -9,6 +9,7 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 - In my spare time I enjoy spending time with my family, reading, learning more about coding, and gaming.
 - I speak English and Norwegian fluently.
 - Im passionate about learning coding/programming and broadening my knowledge as a backend developer.
+- Im also passionate about learning more about frontend develpment, Java script, HTML.
 
 ## Contact Me 📫:
 <a href="mailto:irj082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
