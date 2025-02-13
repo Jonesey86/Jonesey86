@@ -11,6 +11,9 @@ Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, B
 - Im passionate about learning coding/programming and broadening my knowledge as a backend developer.
 - Im also passionate about learning more about frontend develpment, Java script, HTML, CSS.
 
+- My goal is to continuously enhance my skills in backend development, machine learning, while also exploring new technologies like desktop and web application development. Feel free to 
+explore my projects and reach out, I’m always open to learning and collaboration!
+
 ## Contact Me 📫:
 <a href="mailto:irj082024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jones-ian-787b9a96)
