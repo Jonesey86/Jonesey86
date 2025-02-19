@@ -1,7 +1,7 @@
 <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="1400" height="350"/>
 
 ## Introduction 
-Hey there 👋 my name is Ian Jones, a 38 year old man from Liverpool England, But i've been living in Norway for the past 23 years. Currently a student learning backend coding at Jobloop in Bergen Norway. My enjoyment comes from working with C#, API'S, .NET and learning, exploring new programs-tools that i haven't used before, I also enjoy broadening my knowledge in frontend development.
+Hey there 👋 my name is Ian Jones, a 39 year old man from Liverpool England, But i've been living in Norway for the past 23 years. Currently a student learning backend coding at Jobloop in Bergen Norway. My enjoyment comes from working with C#, API'S, .NET and learning, exploring new programs-tools that i haven't used before, I also enjoy broadening my knowledge in frontend development.
 
 ## About Me 💬.
 - Currently learning programming and coding through Jobloop
