@@ -8,7 +8,7 @@ Hey there 👋 my name is Ian Jones, a 39 year old man from Liverpool England, B
 - 13 years experience with customer relations both internal and external customers.
 - In my spare time I enjoy spending time with my family, reading, learning more about coding, gaming and playing golf.
 - I speak English and Norwegian fluently.
-- Im passionate about learning coding/programming and broadening my knowledge as a backend developer.
+- Im passionate about learning coding/programming system developmentand broadening my knowledge as a backend developer.
 - Im also passionate about learning more about frontend development, JavaScript, HTML, CSS.
 
 - My goal is to continuously enhance my skills in backend development, machine learning, while also exploring new technologies like desktop and web application development. Feel free to 
