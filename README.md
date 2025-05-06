@@ -4,7 +4,7 @@
 Hey there 😊👋 my name is Ian Jones, a 39 year old man from Liverpool England, But i've been living in Norway for the past 23 years. Currently a student learning backend coding at Jobloop in Bergen Norway. My enjoyment comes from working with C#, API'S, .NET and learning, exploring new programs-tools that i haven't used before, I also enjoy broadening my knowledge in frontend development.
 
 ## About Me 💬.
-- Currently learning programming and coding through Jobloop
+- Currently working as a junior developer at Tastebuds.
 - 13 years experience with customer relations both internal and external customers.
 - In my spare time I enjoy spending time with my family, reading, learning more about coding, gaming and playing golf.
 - I speak English and Norwegian fluently.
